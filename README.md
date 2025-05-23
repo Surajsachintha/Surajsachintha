@@ -28,7 +28,7 @@ I'm a tech enthusiast and full-stack developer who loves creating smart, scalabl
 ![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat-square&logo=java&logoColor=white)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
