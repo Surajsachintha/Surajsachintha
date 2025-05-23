@@ -35,7 +35,7 @@ I'm a passionate full-stack developer from Sri Lanka 🇱🇰, specializing in b
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajlanka98&show_icons=true&theme=tokyonight" alt="Suraj's GitHub stats" width="48%"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Surajsachintha&show_icons=true&theme=tokyonight" alt="Suraj's GitHub stats" width="48%"/>  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajlanka98&theme=tokyonight" width="48%" />
 </p>
 
