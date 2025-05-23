@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm a passionate developer and tech enthusiast from Sri Lanka 🇱🇰 who loves building innovative software solutions across mobile, web, and desktop platforms.
 
 ## 🚀 What I Do
-- 🧑‍💻 Full-stack development using **React**, **Node.js**, **MySQL**, and **MongoDB**
+- 🧑‍💻 Full-stack development using **React**, **Node.js**, **Express.js**, **MySQL**, and **MongoDB**
 - 📱 Mobile app development with **Flutter**
 - 💬 Real-time applications using **WebSocket**, and **Firebase**, and **Agora**
 - 🌐 Backend API development and integrations
