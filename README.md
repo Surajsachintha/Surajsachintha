@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Suraj Sachintha</h1>
 <p align="center">
-  🎓 MSc in Computing | 💻 Full-Stack Developer | 📱 Flutter Enthusiast | 🔐 JWT & Real-time Systems | 🇱🇰 Based in Sri Lanka
+  🎓 MSc Computing | 💻 Full-Stack Developer | 📱 Flutter Enthusiast | 🔐 JWT & Real-time Systems | 🇱🇰 Based in Sri Lanka
 </p>
 
 ---
