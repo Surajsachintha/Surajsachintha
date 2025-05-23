@@ -11,11 +11,12 @@ I'm a tech enthusiast and full-stack developer who loves creating smart, scalabl
 
 ### 🔍 Who I Am
 
+- 🎓 MSc in Computing  
 - 💡 Self-driven developer with a strong interest in **system architecture** and **IoT integration**
-- 🔧 Builder of **Flutter apps**, **React dashboards**, and **Node.js backends**
+- 🔧 Builder of **Flutter apps**, **React dashboards**, and **Node.js/PHP backends**
 - ⚙️ Tinkerer with **ESP32/Arduino projects** integrated with mobile/web interfaces
 - 🔐 Focused on **secure APIs**, **JWT auth**, **refresh tokens**, and **role-based access**
-- 🔗 Comfortable working with REST APIs, MySQL/MongoDB, and Firebase
+- 🔗 Comfortable working with **REST APIs**, **MySQL/MongoDB**, **Firebase**, and **Java-based solutions**
 - 🧠 Constant learner exploring advanced concepts in backend development and cloud integration
 
 ---
@@ -26,6 +27,8 @@ I'm a tech enthusiast and full-stack developer who loves creating smart, scalabl
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -38,6 +41,7 @@ I'm a tech enthusiast and full-stack developer who loves creating smart, scalabl
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-black?style=flat-square&logo=socket.io)
 ![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens)
+![REST API](https://img.shields.io/badge/-REST%20API-black?style=flat-square&logo=api)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
