@@ -48,6 +48,7 @@ I'm a tech enthusiast and full-stack developer who loves creating smart, scalabl
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 
 ### 🛠️ Other
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
