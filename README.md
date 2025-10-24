@@ -16,7 +16,7 @@ I'm a tech enthusiast and full-stack developer who loves creating smart, scalabl
 - 🔧 Builder of **Flutter apps**, **React dashboards**, and **Node.js/PHP backends**
 - ⚙️ Tinkerer with **ESP32/Arduino projects** integrated with mobile/web interfaces
 - 🔐 Focused on **secure APIs**, **JWT auth**, **refresh tokens**, and **role-based access**
-- 🔗 Comfortable working with **REST APIs**, **MySQL/MongoDB**, **Firebase**, and **Java-based solutions**
+- 🔗 Comfortable working with **REST APIs**, **MySQL/MongoDB/PostgreSQL**, **Firebase**, and **Java-based solutions**
 - 🧠 Constant learner exploring advanced concepts in backend development and cloud integration
 
 ---
